@@ -9,7 +9,6 @@
 ![主界面](docs/images/主界面.png)
 
 ---
-
 ## 这个工具解决什么问题
 
 TVBox（影视仓、各种 TVBox 壳）都要填一个「配置地址 / 接口」。这个地址背后的站会换域名、会挂、会删分类，
@@ -170,7 +169,7 @@ python tvbox_finder.py
 
 ## 支持
 如果觉得不错，可以支持一杯奶茶，十分感谢，我会继续完善这个项目
-(docs/images/zanzhu.png)
+![主界面](docs/images/zanzhu.png)
 ## 许可
 
 [MIT](LICENSE)
