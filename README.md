@@ -169,7 +169,7 @@ python tvbox_finder.py
 
 ## 支持
 如果觉得不错，可以支持一杯奶茶，十分感谢，我会继续完善这个项目
-![主界面](docs/images/zanzhu.png)
+![zanzhu](docs/images/zanzhu.png)
 ## 许可
 
 [MIT](LICENSE)
