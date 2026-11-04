@@ -1,0 +1,54 @@
+[
+  {
+    "name": "小马",
+    "url": "https://szyyds.cn/tv/x.json"
+  },
+  {
+    "name": "老刘备",
+    "url": "https://raw.liucn.cc/box/m.json"
+  },
+  {
+    "name": "肥猫",
+    "url": "http://xn--z7x900a.net/tv"
+  },
+  {
+    "name": "cb-aiwex",
+    "url": "https://9280.kstore.vip/aiwex.json"
+  },
+  {
+    "name": "cb-aowu",
+    "url": "https://9763.kstore.vip/aowu.json"
+  },
+  {
+    "name": "cb-newwex",
+    "url": "https://9280.kstore.space/newwex.json"
+  },
+  {
+    "name": "cb-fish",
+    "url": "https://6800.kstore.vip/fish.json"
+  },
+  {
+    "name": "cb-47api",
+    "url": "http://47.96.82.41:5188/api.json"
+  },
+  {
+    "name": "cb-8tv",
+    "url": "http://8.138.7.223/tv.txt"
+  },
+  {
+    "name": "cb-fulei",
+    "url": "https://gitee.com/fuleishu/fulei/raw/master/fuleixyx.json"
+  },
+  {
+    "name": "qist",
+    "url": "https://qist.wyfc.qzz.io/jsm.json"
+  },
+  {
+    "name": "哈基米",
+    "url": "https://17264.kstore.space/%E5%93%88%E5%9F%BA%E7%B1%B3.png"
+  },
+  {
+    "name": "玄著",
+    "url": "https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json"
+  }
+]

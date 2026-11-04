@@ -1,0 +1,27 @@
+{
+  "note": "源接口工具的采集入口（2026-10-26 实测筛选，保留 8 个）",
+  "updated": "2026-10-26",
+  "pages": [
+    {"name": "clbug 配置聚合页", "url": "https://tvbox.clbug.com/user.php", "kind": "html", "found": 96},
+    {"name": "FongMi 导航", "url": "http://dao.fongmi.eu.org/", "kind": "html", "found": 7},
+    {"name": "shxjshxj123/X", "url": "https://raw.githubusercontent.com/shxjshxj123/X/main/README.md", "kind": "github", "proxy": true, "found": 51},
+    {"name": "xsj520/TV-APP", "url": "https://raw.githubusercontent.com/xsj520/TV-APP/main/README.md", "kind": "github", "proxy": true, "found": 164},
+    {"name": "lubin776/tvbox-api-backup", "url": "https://raw.githubusercontent.com/lubin776/tvbox-api-backup/main/README.md", "kind": "github", "proxy": true, "found": 20},
+    {"name": "Lightconer/tvbox-ysc-config", "url": "https://raw.githubusercontent.com/Lightconer/tvbox-ysc-config/main/README.md", "kind": "github", "proxy": true, "found": 22},
+    {"name": "AudiHub/WanXiang-Release", "url": "https://raw.githubusercontent.com/AudiHub/WanXiang-Release/main/README.md", "kind": "github", "proxy": true, "found": 21}
+  ],
+  "seeds": [
+    {"name": "xhztv 4K 单仓", "url": "http://xhztv.top/4k.json", "kind": "config"}
+  ],
+  "dead": [
+    "https://tvbox.cainisi.cf",
+    "https://www.xn--sss604efuw.com/jm/",
+    "https://jm.n13.club/",
+    "http://000.hfr1107.com/jm.php",
+    "http://tvbox.王二小放牛娃.xyz/",
+    "http://www.饭太硬.net/tv",
+    "https://tools.v1.mk/"
+  ],
+  "expand_multiwarehouse": true,
+  "max_candidates": 50
+}

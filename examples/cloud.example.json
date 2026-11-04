@@ -1,0 +1,10 @@
+{
+  "config_url": "https://tv.example.com/tvbox.json",
+  "upload_url": "https://tv.example.com/upload",
+  "upload_key": "换成你自己的一长串随机字符（和 Worker 里的 UPLOAD_KEY 一致）",
+  "status_url": "https://tv.example.com/status",
+  "account_id": "可选：你的 Cloudflare 账号 ID",
+  "zone_id": "可选：你的域名 Zone ID",
+  "script": "tvbox-config",
+  "kv_namespace": "可选：你的 KV 命名空间 ID"
+}

@@ -1,0 +1,13 @@
+name = "tvbox-config"
+main = "worker.js"
+compatibility_date = "2024-09-23"
+
+# 先执行：wrangler kv namespace create TVBOX
+# 然后把拿到的 id 填到下面
+[[kv_namespaces]]
+binding = "TVBOX"
+id = "在这里填你的 KV Namespace ID"
+
+# 上传口令建议用 wrangler secret put UPLOAD_KEY，不要写死在仓库里
+[vars]
+UPLOAD_KEY = "换成你自己的一长串随机字符"
